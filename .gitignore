@@ -1,0 +1,19 @@
+# Xcode & Swift Package Manager
+.build/
+build/
+DerivedData/
+*.xcodeproj
+*.xcworkspace
+.swiftpm/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Icon?
+
+# User / IDE files
+xcuserdata/
+*.moved-aside
+*.xcuserstate
